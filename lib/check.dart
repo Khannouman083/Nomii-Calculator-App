@@ -10,6 +10,6 @@ class mynewApp extends StatefulWidget {
 class _mynewAppState extends State<mynewApp> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return Scaffold();
   }
 }
